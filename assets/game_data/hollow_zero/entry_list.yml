@@ -98,7 +98,7 @@
 - entry_name: "9999-未知"
   is_benefit: false
 - entry_name: "0056-零号银行"
-  is_benefit: false
+  is_benefit: true
   can_visited_times: 1
 - entry_name: "0057-失效节点"
   need_step: 1
